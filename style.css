@@ -22,3 +22,13 @@
 .animate-shake {
   animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
+
+body {
+  background-image: url(https://th.bing.com/th/id/R.8be06ee1bea42ed484fb5282030d31be?rik=gsUicc%2fCTxvMOw&pid=ImgRaw&r=0);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#dice-roller-box {
+  background-color: rgb(252, 239, 221);
+}
